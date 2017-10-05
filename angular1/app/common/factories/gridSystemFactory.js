@@ -12,7 +12,7 @@
 
     return classes
   }
-
+console.log(toCssClasses('6'))
   return { toCssClasses }
-  }])  
+  }])
 })()
